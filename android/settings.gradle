@@ -1,0 +1,3 @@
+rootProject.name = 'EasyPark1'
+
+include ':app'
